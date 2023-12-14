@@ -1,8 +1,6 @@
 def plus(a, b):
     return a + b
 
-text = "mew text"
-
 def minus(a, b):
     return a - b
 
